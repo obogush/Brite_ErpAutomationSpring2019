@@ -3,10 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="25c995b8-372c-4649-87c6-d02f1b81897b" name="Default Changelist" comment=".Brite">
       <change afterPath="$PROJECT_DIR$/../practice" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Brite_ErpAutomationSpring2019.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Brite_Erp_AutomationSpring2019.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring2019_Project1/src/day11/AssignmentContitional.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring2019_Project1/src/day11/ConditionalAssignment.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring2019_Project1/src/day11/SingleStatement.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring2019_Project1/src/day11/SingleStatement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring2019_Project1/src/day11/ConditionalAssignment.java" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -82,8 +79,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/Brite_Erp/tests/components/crm/crmPageTests.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="175">
-              <caret line="123" column="36" selection-start-line="123" selection-start-column="36" selection-end-line="123" selection-end-column="36" />
+            <state relative-caret-position="981">
+              <caret line="124" column="8" lean-forward="true" selection-start-line="124" selection-start-column="8" selection-end-line="124" selection-end-column="8" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -340,6 +337,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="ChangesTree.GroupingKeys" value="module&#10;directory&#10;repository" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
@@ -358,54 +356,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.crmPageTests.test1">
-    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
-      <module name="Brite_Erp_AutomationSpring2019" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="WORKING_DIRECTORY" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
-      <module name="Brite_Erp_AutomationSpring2019" />
-      <option name="filePath" />
-      <option name="vmParameters" />
-      <option name="alternativeJrePath" />
-      <option name="programParameters" />
-      <option name="passParentEnvs" value="true" />
-      <option name="workingDirectory" />
-      <option name="isAlternativeJrePathEnabled" value="false" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="filePath" />
-      <option name="vmParameters" />
-      <option name="alternativeJrePath" />
-      <option name="programParameters" />
-      <option name="passParentEnvs" value="true" />
-      <option name="workingDirectory" />
-      <option name="isAlternativeJrePathEnabled" value="false" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="WORKING_DIRECTORY" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="TestNG.crmPageTests.test2">
     <configuration name="crmPageTests" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Brite_Erp_AutomationSpring2019" />
       <extension name="coverage">
@@ -478,8 +429,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.crmPageTests.test1" />
         <item itemvalue="TestNG.crmPageTests.test2" />
+        <item itemvalue="TestNG.crmPageTests.test1" />
         <item itemvalue="TestNG.crmPageTests" />
         <item itemvalue="TestNG.loginTests" />
       </list>
@@ -535,9 +486,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="crmPageTests_test2 - 2019.07.30 at 13h 04m 13s.xml">
-      <configuration name="crmPageTests.test2" configurationId="TestNG" />
-    </history-entry>
     <history-entry file="crmPageTests - 2019.07.30 at 13h 10m 06s.xml">
       <configuration name="crmPageTests" configurationId="TestNG" />
     </history-entry>
@@ -565,11 +513,14 @@
     <history-entry file="crmPageTests_test1 - 2019.07.31 at 15h 09m 29s.xml">
       <configuration name="crmPageTests.test1" configurationId="TestNG" />
     </history-entry>
+    <history-entry file="crmPageTests_test2 - 2019.08.01 at 21h 55m 25s.xml">
+      <configuration name="crmPageTests.test2" configurationId="TestNG" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="-1608" y="-8" width="1616" height="876" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17030849" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17030849" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -578,14 +529,14 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32974428" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.5287107" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.5275909" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Educational.CheckDetails" order="8" />
-      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.4993573" visible="true" weight="0.32974428" />
+      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.4993573" weight="0.32974428" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50064266" side_tool="true" weight="0.32974428" />
       <window_info anchor="bottom" id="Messages" order="11" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -627,6 +578,7 @@
     </layout-to-restore>
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="SHOW_UNVERSIONED_FILES_WHILE_COMMIT" value="false" />
     <MESSAGE value="Brite_Erp" />
     <MESSAGE value="." />
     <MESSAGE value=".Brite" />
@@ -732,8 +684,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/Brite_Erp/tests/components/crm/crmPageTests.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="123" column="36" selection-start-line="123" selection-start-column="36" selection-end-line="123" selection-end-column="36" />
+        <state relative-caret-position="981">
+          <caret line="124" column="8" lean-forward="true" selection-start-line="124" selection-start-column="8" selection-end-line="124" selection-end-column="8" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
