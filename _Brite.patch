@@ -1,0 +1,220 @@
+Index: Spring2019_Project1/src/day11/SingleStatement.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- Spring2019_Project1/src/day11/SingleStatement.java	(revision 6b32abb2c3655c1ea9c234f3f1030303aea730e5)
++++ Spring2019_Project1/src/day11/SingleStatement.java	(date 1560632320613)
+@@ -1,10 +1,117 @@
+ package day11;
+ 
++
++
+ public class SingleStatement {
+ 
++
++
+ 	public static void main(String[] args) {
+-		// TODO Auto-generated method stub
++
++
++
++		int x = 100;
++
++
++
++//		if (x != 100)
++
++//			System.out.println("NOT A 100");
++
++//		else
++
++//			System.out.println("YES 100");
++
++//
++
++//		
++
++		
++
++		if (x > 100) 
++
++			System.out.println("more than 100");
++
++//		System.out.println("SOMETHING ELSE");
++
++//
++
++//		// &&, &  ||, |  , ! 
++
++//		System.out.println(  true || false );
++
++//		System.out.println(  true && false );
++
++//		System.out.println(  ! false );
++
++		
++
++		// x = 100 
++
++			// FALSE
++
++		
++
++//		if(x>100 && ++x<200){
++
++//			System.out.println("both are true");
++
++//		}
++
++
++
++//		if(x>100 & ++x<200){
++
++//			System.out.println("both are true");
++
++//		}
++
++		
++
++		// x = 100 
++
++			// true 
++
++//		if(x==100 || ++x<200){
++
++//			System.out.println("both are true");
++
++//		}
++
++//		
++
++		if(x==100 | ++x<200 ){
++
++			System.out.println("both are true");
+ 
+-	}
++		}
+ 
+-}
++		
++
++
++
++		System.out.println(x);
++
++		
++
++		
++
++		
++
++		
++
++		
++
++		
++
++		
++
++		
++
++
++
++	}
++
++
++
++}
+\ No newline at end of file
+Index: Spring2019_Project1/src/day11/AssignmentContitional.java
+===================================================================
+--- Spring2019_Project1/src/day11/AssignmentContitional.java	(revision 6b32abb2c3655c1ea9c234f3f1030303aea730e5)
++++ Spring2019_Project1/src/day11/ConditionalAssignment.java	(date 1560627453266)
+@@ -1,10 +1,81 @@
++
++
+ package day11;
+ 
+-public class AssignmentContitional {
++
++
++import java.util.Scanner;
++
++
++
++public class ConditionalAssignment {
++
++
+ 
+ 	public static void main(String[] args) {
+-		// TODO Auto-generated method stub
++
++		
++
++		// create 2 variable 
++
++		// score as integer , get the value from scanner
++
++		// result as String 
++
++		
++
++		// write an if statement to check for score 
++
++		// more than 75 , if yes assign result value to pass
++
++		// ELSE assign result value to fail 
++
++		
++
++		// print out result value 
++
++		Scanner mysuperscanner = new Scanner(System.in);
++
++		String result ; 
++
++		
++
++		System.out.println("Enter your score");
++
++		int score = mysuperscanner.nextInt();
++
++		
++
++		if(score>75){
++
++			result = "pass" ; 
++
++		}else{
++
++			result = "fail"; 
+ 
+-	}
++		}
+ 
+-}
++		
++
++		System.out.println("result is "+ result);
++
++	
++
++		
++
++		
++
++		
++
++		
++
++		
++
++
++
++	}
++
++
++
++}
+\ No newline at end of file
