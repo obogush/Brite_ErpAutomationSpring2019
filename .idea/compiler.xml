@@ -6,7 +6,7 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="Brite_ErpAutomationSpring2019" />
+        <module name="Brite_Erp_AutomationSpring2019" />
       </profile>
     </annotationProcessing>
   </component>

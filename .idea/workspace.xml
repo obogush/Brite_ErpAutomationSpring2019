@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="25c995b8-372c-4649-87c6-d02f1b81897b" name="Default Changelist" comment=".">
+    <list default="true" id="25c995b8-372c-4649-87c6-d02f1b81897b" name="Default Changelist" comment=".Brite">
       <change afterPath="$PROJECT_DIR$/../practice" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Brite_ErpAutomationSpring2019.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Brite_Erp_AutomationSpring2019.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Spring2019_Project1/src/day11/AssignmentContitional.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring2019_Project1/src/day11/ConditionalAssignment.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Spring2019_Project1/src/day11/SingleStatement.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring2019_Project1/src/day11/SingleStatement.java" afterDir="false" />
     </list>
@@ -80,8 +82,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/Brite_Erp/tests/components/crm/crmPageTests.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="243">
-              <caret line="112" lean-forward="true" selection-start-line="112" selection-end-line="112" />
+            <state relative-caret-position="175">
+              <caret line="123" column="36" selection-start-line="123" selection-start-column="36" selection-end-line="123" selection-end-column="36" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -147,7 +149,10 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="UPDATE_CHANGES_POLICY" value="SHELVE" />
     <option name="UPDATE_TYPE" value="MERGE" />
+    <option name="PUSH_AUTO_UPDATE" value="true" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
@@ -189,8 +194,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Course" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="Course" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -330,7 +336,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -339,7 +344,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="settings.github" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -354,8 +359,55 @@
     </option>
   </component>
   <component name="RunManager" selected="TestNG.crmPageTests.test1">
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <module name="Brite_Erp_AutomationSpring2019" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <module name="Brite_Erp_AutomationSpring2019" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="crmPageTests" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="Brite_ErpAutomationSpring2019" />
+      <module name="Brite_Erp_AutomationSpring2019" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.Brite_Erp.tests.components.crm.*" />
@@ -372,7 +424,7 @@
       </method>
     </configuration>
     <configuration name="crmPageTests.test1" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="Brite_ErpAutomationSpring2019" />
+      <module name="Brite_Erp_AutomationSpring2019" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.Brite_Erp.tests.components.crm.*" />
@@ -390,7 +442,7 @@
       </method>
     </configuration>
     <configuration name="crmPageTests.test2" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="Brite_ErpAutomationSpring2019" />
+      <module name="Brite_Erp_AutomationSpring2019" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.Brite_Erp.tests.components.crm.*" />
@@ -408,7 +460,7 @@
       </method>
     </configuration>
     <configuration name="loginTests" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="Brite_ErpAutomationSpring2019" />
+      <module name="Brite_Erp_AutomationSpring2019" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.Brite_Erp.tests.components.login_navigation.*" />
@@ -458,7 +510,28 @@
       <option name="project" value="LOCAL" />
       <updated>1564709823206</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary=".">
+      <created>1564709926110</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1564709926110</updated>
+    </task>
+    <task id="LOCAL-00004" summary=".Brite">
+      <created>1564710045477</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1564710045477</updated>
+    </task>
+    <task id="LOCAL-00005" summary=".Brite">
+      <created>1564710105342</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1564710105342</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -496,7 +569,7 @@
   <component name="ToolWindowManager">
     <frame x="-1608" y="-8" width="1616" height="876" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16838047" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17030849" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -554,9 +627,10 @@
     </layout-to-restore>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="." />
     <MESSAGE value="Brite_Erp" />
-    <option name="LAST_COMMIT_MESSAGE" value="Brite_Erp" />
+    <MESSAGE value="." />
+    <MESSAGE value=".Brite" />
+    <option name="LAST_COMMIT_MESSAGE" value=".Brite" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/pom.xml">
@@ -566,7 +640,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Brite_ErpAutomationSpring2019.iml">
+    <entry file="file://$PROJECT_DIR$/Brite_Erp_AutomationSpring2019.iml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/Brite_Erp/utilities/SeleniumUtils.java">
@@ -658,8 +732,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/Brite_Erp/tests/components/crm/crmPageTests.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="243">
-          <caret line="112" lean-forward="true" selection-start-line="112" selection-end-line="112" />
+        <state relative-caret-position="175">
+          <caret line="123" column="36" selection-start-line="123" selection-start-column="36" selection-end-line="123" selection-end-column="36" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
